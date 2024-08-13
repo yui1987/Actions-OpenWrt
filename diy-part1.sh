@@ -17,8 +17,8 @@
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 
-echo 'src-git nas https://github.com/linkease/nas-packages.git;master' >>feeds.conf.default
-echo 'src-git nas_luci https://github.com/linkease/nas-packages-luci.git;main' >>feeds.conf.default
-echo 'src-git istore https://github.com/linkease/istore.git;main' >>feeds.conf.default
-echo 'src-git passwall_packages https://github.com/xiaorouji/openwrt-passwall-packages.git;main' >>feeds.conf.default
-echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall.git;main' >>feeds.conf.default
+echo 'src-git nas https://github.com/linkease/nas-packages' >>feeds.conf.default
+echo 'src-git nas_luci https://github.com/linkease/nas-packages-luci' >>feeds.conf.default
+echo 'src-git istore https://github.com/linkease/istore' >>feeds.conf.default
+echo 'src-git passwall_packages https://github.com/xiaorouji/openwrt-passwall-packages' >>feeds.conf.default
+echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
